@@ -1,0 +1,44 @@
+background-color:#001B33; color:white
+//| color:#0088FF;font-style:italic Comentario
+/*|*/ color:#0088FF;font-style:italic Comentario
+#include| color:#FCEB7F Preproceso C
+#define| color:#FCEB7F Preproceso C
+#if| color:#FCEB7F Preproceso C
+"|" color:#3AD900 Cadena
+{ font-weight:bold Llaves
+} font-weight:bold Llaves
+( font-weight:bold Paréntesis
+) font-weight:bold Paréntesis
+[ font-weight:bold Corchetes
+] font-weight:bold Corchetes
+if color:#FF9D00;font-weight:bold PalabrasReservadas
+else color:#FF9D00;font-weight:bold PalabrasReservadas
+for color:#FF9D00;font-weight:bold PalabrasReservadas
+while color:#FF9D00;font-weight:bold PalabrasReservadas
+do color:#FF9D00;font-weight:bold PalabrasReservadas
+return color:#FF9D00;font-weight:bold PalabrasReservadas
+case color:#FF9D00;font-weight:bold PalabrasReservadas
+break color:#FF9D00;font-weight:bold PalabrasReservadas
+continue color:#FF9D00;font-weight:bold PalabrasReservadas
+int color:green;font-weight:bold TipoDato
+float color:green;font-weight:bold TipoDato
+void color:green;font-weight:bold TipoDato
+string color:green;font-weight:bold TipoDato
+char color:green;font-weight:bold TipoDato
+unsigned color:green;font-weight:bold TipoDato
+= font-weight:bold;color:cyan Operador
++ font-weight:bold;color:cyan Operador
+- font-weight:bold;color:cyan Operador
+* font-weight:bold;color:cyan Operador
+/ font-weight:bold;color:cyan Operador
+< font-weight:bold;color:cyan Operador
+> font-weight:bold;color:cyan Operador
+<= font-weight:bold;color:cyan Operador
+>= font-weight:bold;color:cyan Operador
+== font-weight:bold;color:cyan Operador
+! font-weight:bold;color:cyan Operador
+&& font-weight:bold;color:cyan Operador
+~ color:#FF0044 Entero
+.~ color:#FF0044 Real
+~.0 color:#FF0044 Real
+~.~ color:#FF0044 Real
